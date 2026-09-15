@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class atv2 {
+public class Atv3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         boolean continuar = true;
